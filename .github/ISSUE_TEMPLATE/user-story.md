@@ -1,6 +1,6 @@
 ---
-name: User Stor
-about: This teamplate is for creating user stories
+name: User Story
+about: This template is for creating user stories
 title: ''
 labels: ''
 assignees: ''
